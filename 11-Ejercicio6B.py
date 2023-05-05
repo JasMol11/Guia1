@@ -11,4 +11,5 @@ cantUnidades=int(input("Ingrese el número de unidades: "))
 
 costoTotal= precioProducto * cantUnidades
 
-print ("Producto: ",nombreProducto,"Precio unitario: $",precioProducto,"stock: ",cantUnidades,"Unidades", "Costo Total: $",costoTotal )
+print ("Producto: ",nombreProducto,"Precio unitario: $"
+       ,precioProducto,"stock: ",cantUnidades,"Unidades", "Costo Total: $",costoTotal )
